@@ -9,3 +9,6 @@ $$
 
 jvjvvvyjvvhvhvvhbvhvhgbvhgj
 ### studia podtytuł2
+
+
+zmianan dodana w git hub
